@@ -10,7 +10,6 @@ namespace FileDeleteProgram
     {
         static void Main(string[] args)
         {
-            //string folderPath = @"C:\Users\saharat.mee\Downloads\fileTest";
             ColoredConsole.WriteLine($"{"Please enter the path to the file you want to".Yellow()} {"delete".Red()}.");
             ColoredConsole.WriteLine($"{"Example:".Yellow()} C:\\Users\\saharat.mee\\Downloads");
             string folderPath = Console.ReadLine();
