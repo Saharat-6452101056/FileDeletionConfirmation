@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDeletion", "TestProgramming\FileDeletion.csproj", "{789FED5C-44FF-4C83-A99E-A9F989192156}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileGenaration", "FileGenaration\FileGenaration.csproj", "{A612DBE8-9EE8-4397-87B0-AB10BF889A2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{789FED5C-44FF-4C83-A99E-A9F989192156}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{789FED5C-44FF-4C83-A99E-A9F989192156}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{789FED5C-44FF-4C83-A99E-A9F989192156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A612DBE8-9EE8-4397-87B0-AB10BF889A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A612DBE8-9EE8-4397-87B0-AB10BF889A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A612DBE8-9EE8-4397-87B0-AB10BF889A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A612DBE8-9EE8-4397-87B0-AB10BF889A2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
