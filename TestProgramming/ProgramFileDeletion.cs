@@ -6,7 +6,7 @@ using Colors.Net.StringColorExtensions;
 
 namespace FileDeleteProgram
 {
-    class Program
+    class ProgramFileDeletion
     {
         static void Main(string[] args)
         {
